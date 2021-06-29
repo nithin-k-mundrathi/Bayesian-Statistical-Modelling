@@ -1,6 +1,6 @@
 # Bayesian-Statistical-Modelling
 
-## Model-2
+## Model-2- Too good to be True
 ### Bayesian Network to identify Bias in the Judgement
 ![image](https://user-images.githubusercontent.com/47551095/123717503-e681bc00-d874-11eb-8a7c-8d1e8c052cd2.png)
 ### The Node Probability Tables of Gulit and Bias 
