@@ -1,4 +1,4 @@
-# Bayesian-Statistical-Modelling
+# Statistical-Modelling-Using Bayesian Networks
 
 # Please Switch to other Branches for Detailed Description of Each Model
 
